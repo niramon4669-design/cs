@@ -19,5 +19,4 @@
 - Problem solving
 - Python basics
 - Teamwork
-
--    
+- hihi
